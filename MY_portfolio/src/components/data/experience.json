@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "role": "Software Engineering Intern SDE Intern @shipsy",
+    "organisation": "Shipsy",
+    "startDate": "May, 2024 - ",
+    "endDate": "Present, ",
+    "location": "HSR Layout, Banglore",
+    "experiences": [
+      "Worked on QA Autamation"
+    ],
+    "imageSrc": "company/shipsy.png"
+  },
+  {
+    "id": 2,
+    "role": "Frontend Developer",
+    "organisation": "Raise.Digital",
+    "startDate": "Sept, 2023  - ",
+    "endDate": "Nov, 2023, ",
+    "location": "HSR, Banglore",
+    "experiences": [
+      "Worked on Frontend UI"
+    ],
+    "imageSrc": "company/raise.png"
+  }
+]

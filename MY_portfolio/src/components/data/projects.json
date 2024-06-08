@@ -1,0 +1,50 @@
+[
+  {
+    "key": 1,
+    "title": "E-Commerce",
+    "imageSrc": "https://github.com/naveenkumarkancherla/imageGallery/blob/main/Image_Gallery/eccomerce.png?raw=true",
+    "description": "This is a MERN stack project with two panels Admin and Customer panel",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/naveenkumarkancherla/SURETRUST_FINAL_PROJECT"
+  },
+  {
+    "key": 2,
+    "title": "College Management System",
+    "imageSrc": "https://raw.githubusercontent.com/naveenkumarkancherla/imageGallery/main/Image_Gallery/college.png",
+    "description": "This is College management with three dashboards like student, teacher and admin",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/naveenkumarkancherla/WebTechnologies_ProjectS/tree/main/MERN-College-Management"
+  },
+  {
+    "key": 3,
+    "title": "Java script Projects",
+    "imageSrc": "https://github.com/naveenkumarkancherla/imageGallery/blob/main/Image_Gallery/Screenshot%202024-02-12%20184149.png?raw=true",
+    "description": "Here i have created some javascript projects frontend",
+    "demo": "https://naveenkancherlajavascriptmixedproject.netlify.app",
+    "source": "https://github.com/naveenkumarkancherla/WebTechnologies_ProjectS/tree/main/Simple%20Js%20mixed%20Projects"
+  },
+  {
+    "key": 4,
+    "title": "TODO List task",
+    "imageSrc": "https://github.com/naveenkumarkancherla/imageGallery/blob/main/Image_Gallery/Screenshot%202024-02-12%20183701.png?raw=true",
+    "description": "This is a project made with html,css,js,php",
+    "demo": "https://naveenkancherlatodolist.netlify.app",
+    "source": "https://github.com/naveenkumarkancherla/WebTechnologies_ProjectS/tree/main/FRONTEND_MAJOR_PROJECT_ONE_Todo_list"
+  },
+  {
+    "key": 5,
+    "title": "Watch Haven",
+    "imageSrc": "https://github.com/naveenkumarkancherla/imageGallery/blob/main/Image_Gallery/Screenshot%202024-02-10%20100603.png?raw=true",
+    "description": "This is a project made with html,css,js,php it's a streaming website",
+    "demo": "https://naveenswatchhavenwebpage.netlify.app",
+    "source": "https://github.com/naveenkumarkancherla/WebTechnologies_ProjectS/tree/main/WatchHaven_streaming%20website_php"
+  },
+  {
+    "key": 6,
+    "title": "CGPA Calculator",
+    "imageSrc": "https://github.com/naveenkumarkancherla/imageGallery/blob/main/Image_Gallery/Screenshot%202024-06-08%20203233.png?raw=true",
+    "description": "This is a project made with html,css,js used to calculate cgpa based on grades",
+    "demo": "https://naveenkancherlagpacalculator.netlify.app",
+    "source": "https://github.com/naveenkumarkancherla/WebTechnologies_ProjectS/blob/main/GPA_Calculator.html"
+  }
+]
