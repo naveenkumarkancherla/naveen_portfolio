@@ -65,7 +65,7 @@ const Contact = () => {
           data-aos="zoom-in-up"
           data-aos-duration="1000"
         >
-          <a href="https://kancherlanaveenkum.wixsite.com/naveen2003" target="_blank" className="items">
+          <a href="https://naveen-portfolio-nine.vercel.app" target="_blank" className="items">
             <div className="icon-wrapper">
               <AiOutlineProfile className="icons" />
             </div>
