@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "Award": "NLEPC National Award",
+    "Purpose": "For making an experiment in the National level exhibition and competition",
+    "location": "IIT Delhi",
+    "imageSrc": "company/nlepc.png"
+  },
+  {
+    "id": 2,
+    "Award": "SLEP State, District INSPIRE Award",
+    "Purpose": "For making an experiment on Non-renewable energy resources -> Artificial coal",
+    "location": "KBN College, Vijayawada",
+    "imageSrc": "company/state.png"
+  },
+  {
+    "id": 3,
+    "Award": "CRY Role Model",
+    "Purpose": "For contribution of service to society with support of PORD Organization",
+    "location": "Received at Delhi from (CRY) Child Rights and You",
+    "imageSrc": "company/cry.png"
+  },
+  {
+    "id": 4,
+    "Award": "Ashoka Youth Venturer Fellowship",
+    "Purpose": "For contribution of service to society with support of PORD Organization",
+    "location": "Received at Bangalore",
+    "imageSrc": "company/ashoka.png"
+  },
+  {
+    "id": 5,
+    "Award": "",
+    "Purpose": "Science Inspire Competition (2015): Participated and received awards at the district, state, and national levels, also selected for Japan Sakura Science Program. Prathibha Puraskar (2016): Received from the Chief Minister of Andhra Pradesh for notable achievement. Ashoka Youth Venturer Fellowship: Selected for the fellowship program, demonstrating leadership qualities and social impact. Child Rights Role Model Award: Received from the CRY organization for advocacy and efforts towards child rights.",
+    "location": "",
+    "imageSrc": "company/achieve.png"
+  }
+]

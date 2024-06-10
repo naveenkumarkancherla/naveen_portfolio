@@ -119,11 +119,17 @@ const Navbar = () => {
           <a href="#experience" className="nav_items">
             Experience
           </a>
+          <a href="#education" className="nav_items">
+            Education
+          </a>
           <a href="#skills" className="nav_items">
             Skills
           </a>
           <a href="#projects" className="nav_items">
             Projects
+          </a>
+          <a href="#achievements" className="nav_items">
+            Achievements
           </a>
           <a href="#contact" className="nav_items">
             Contact

@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "college": "RGUKT RK Valley",
+      "study": "B.Tech, Computer Science Engineering",
+      "startDate": "2021 -",
+      "endDate": "2025, CGPA-8.42",
+      "location": "Idupulpaya, 516329, Kadapa"
+    },
+    {
+      "id": 2,
+      "college": "RGUKT RK Valley",
+      "study": "PUC, MPC",
+      "startDate": "2019 -",
+      "endDate": "2021, CGPA-9.42",
+      "location": "Idupulpaya, 516329, Kadapa"
+    },
+    {
+      "id": 3,
+      "college": "Hope Municipal High School",
+      "study": "X Class",
+      "startDate": "2018 -",
+      "endDate": "2019, CGPA-9.8",
+      "location": "Madanapalle, 517325, Chittoor"
+    }
+  ]
+  
