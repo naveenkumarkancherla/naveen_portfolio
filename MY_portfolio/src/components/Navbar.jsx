@@ -8,7 +8,7 @@ const Navbar = () => {
   };
 
   const navBarStyle = {
-    fontSize: "24px"
+    fontSize: "22px"
   };
 
   const naveenStyle = { 
