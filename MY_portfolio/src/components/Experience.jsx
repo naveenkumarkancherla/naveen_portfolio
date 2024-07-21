@@ -20,6 +20,7 @@ const Experience = () => {
       marginBottom: "2rem",
       boxShadow: "0 4px 8px rgba(0, 0, 0, 0.2)",
       display: "flex",
+      flexDirection: "row",
       alignItems: "center",
     },
     left: {
@@ -52,7 +53,7 @@ const Experience = () => {
       fontSize: "1rem",
       color: "yellow",
       margin: "0.5rem 0",
-    },
+    }
   };
 
   return (
@@ -73,7 +74,7 @@ const Experience = () => {
             <div style={styles.right}>
               <h2 style={styles.role}>{data.role}</h2>
               <h4 style={styles.dateLocation}>
-                {data.startDate} {data.endDate} <span>{data.location}</span>
+                {data.startDate} - {data.endDate} <span>{data.location}</span>
               </h4>
               <h5 style={styles.experienceText}>{data.experiences[0]}</h5>
               <h5 style={styles.experienceText}>{data.experiences[1]}</h5>

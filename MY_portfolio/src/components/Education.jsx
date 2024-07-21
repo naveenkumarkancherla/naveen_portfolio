@@ -57,9 +57,26 @@ const Education = () => {
     ...detailSpanStyle,
     color: "#ffa000"
   };
+  // Mobile-first styles with media queries
+  const mediaQueryStyles = `
+    @media (max-width: 768px) {
+      .ex-items {
+        padding: 10px;
+      }
+
+      .college {
+        font-size: 1.2em;
+      }
+
+      .detail-span {
+        font-size: 1em;
+      }
+    }
+  `;
 
   return (
     <div style={containerStyle} id="education">
+       <style>{mediaQueryStyles}</style>
       <h1 style={headerStyle}>EDUCATION</h1>
       {education.map((data) => (
         <div
@@ -70,15 +87,15 @@ const Education = () => {
           style={exItemStyle}
         >
           <div style={rightSectionStyle}>
-            <h2 style={collegeStyle}>{data.college}</h2>
+            <h2 className="college" style={collegeStyle}>{data.college}</h2>
             <h4 style={detailStyle}>
-              <span style={studyStyle}>{data.study}</span>
+              <span className="detail-span" style={studyStyle}>{data.study}</span>
             </h4>
             <h5 style={detailStyle}>
-              <span style={studyStyle}>{data.startDate} {data.endDate}</span>
+              <span className="detail-span" style={studyStyle}>{data.startDate} {data.endDate}</span>
             </h5>
             <h5 style={detailStyle}>
-              <span style={locationStyle}>{data.location}</span>
+              <span className="detail-span" style={locationStyle}>{data.location}</span>
             </h5>
           </div>
         </div>

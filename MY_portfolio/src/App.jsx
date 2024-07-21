@@ -9,7 +9,7 @@ import Education from "./components/Education";
 import Aos from "aos";
 import "aos/dist/aos.css"
 import Achievements from "./components/Achievements";
-
+import './App.css';
 
 const App = () => {
  useEffect(() => {

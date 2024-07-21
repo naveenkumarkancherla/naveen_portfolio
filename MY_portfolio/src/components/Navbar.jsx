@@ -11,11 +11,11 @@ const Navbar = () => {
     fontSize: "24px"
   };
 
-  const naveenStyle = {
-    border: "2.5px solid yellow",
-    borderRadius: "35%", 
+  const naveenStyle = { 
     padding: "10px",
-    animation: "pulse 2s infinite"
+    fontFamily:"Times New Roman",
+    animation: "pulse 20s infinite"
+
   };
 
   return (
