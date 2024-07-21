@@ -13,7 +13,7 @@ const Navbar = () => {
 
   const naveenStyle = { 
     padding: "10px",
-    fontFamily:"Times New Roman",
+    fontSize:"25px",
     animation: "pulse 20s infinite"
 
   };
@@ -105,7 +105,7 @@ const Navbar = () => {
         style={navBarStyle}
       >
         <div className="left naveen" style={naveenStyle}>
-          Naveenkumar Kancherla
+        ꧁༺ 𝓝𝓪𝓿𝓮𝓮𝓷𝓴𝓾𝓶𝓪𝓻 ༻꧂
         </div>
         <div className="hamburger" onClick={toggleMenu}>
           <div></div>
