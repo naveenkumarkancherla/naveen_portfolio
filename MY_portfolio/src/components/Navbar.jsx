@@ -13,7 +13,6 @@ const Navbar = () => {
 
   const naveenStyle = { 
     padding: "10px",
-    fontSize:"25px",
     animation: "pulse 20s infinite"
 
   };
